@@ -1,26 +1,56 @@
 {
-    "Books": [
-        {
-          "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
-          "book_name": "Harry Potter and the Philosopher's Stone",
-          "author": "J. K. Rowling",
-              "genre": "fiction",
-              "edition": "2021",
-              "publisher": "Bloomsbury",
-              "cost": 1299,
-              "borrowed": false
-        }
-      ],
-      "signinadmin":[
-        {
-         "email":"admin@gmail.com",
-          "password": "masai"
-        }
-      ],
-      "signin":[
-
-      ],
-      "signup":[
-
-      ]
+  "Books": [
+    {
+      "id": 383814557478,
+      "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+      "book_name": "Harry Potter and the Philosopher's Stone",
+      "author": "J. K. Rowling",
+      "genre": "fiction",
+      "edition": "2021",
+      "publisher": "Bloomsbury",
+      "cost": 1299,
+      "borrowed": false
+    },
+    {
+      "id": 1240980685402,
+      "imgurl": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+      "bookname": "madhu",
+      "author": "madhu",
+      "genre": "Science",
+      "edition": "2021",
+      "publisher": "mmasai",
+      "cost": "2323",
+      "borrowed": false
+    },
+    {
+      "id": 383814557478,
+      "imgurl": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+      "bookname": "king",
+      "author": "sai",
+      "genre": "Science",
+      "edition": "2021",
+      "publisher": "school",
+      "cost": "122",
+      "borrowed": false
+    },
+    {
+      "id": 419801889147,
+      "imgurl": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+      "bookname": "hello world",
+      "author": "albert",
+      "genre": "Science",
+      "edition": "2022",
+      "publisher": "masai",
+      "cost": "9999999999",
+      "borrowed": false
+    }
+  ],
+  "signinadmin": [
+    {
+      "email": "admin@gmail.com",
+      "password": "masai"
+    }
+  ],
+  "signin": [],
+  "signup": []
 }
