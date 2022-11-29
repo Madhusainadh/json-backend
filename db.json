@@ -13,8 +13,8 @@
     },
     {
       "id": 1240980685402,
-      "imgurl": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
-      "bookname": "madhu",
+      "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+      "book_name": "madhu",
       "author": "madhu",
       "genre": "Science",
       "edition": "2021",
@@ -24,8 +24,8 @@
     },
     {
       "id": 383814557478,
-      "imgurl": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
-      "bookname": "king",
+      "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+      "book_name": "king",
       "author": "sai",
       "genre": "Science",
       "edition": "2021",
@@ -35,8 +35,8 @@
     },
     {
       "id": 419801889147,
-      "imgurl": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
-      "bookname": "hello world",
+      "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+      "book_name": "hello world",
       "author": "albert",
       "genre": "Science",
       "edition": "2022",
