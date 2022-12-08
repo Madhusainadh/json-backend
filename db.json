@@ -68,5 +68,20 @@
     "email": "madhu@gmail.com",
     "pass": "madhu",
     "id": 2
+  }, {
+    "username": "king",
+    "avatar": "https://i.pravatar.cc/300",
+    "fullname": "king",
+    "email": "king@gmail.com",
+    "pass": "king",
+    "id": 3
+  },
+  {
+    "username": "sai",
+    "avatar": "https://i.pravatar.cc/300",
+    "fullname": "sai",
+    "email": "sai@gmail.com",
+    "pass": "sai",
+    "id": 4
   }]
 }
