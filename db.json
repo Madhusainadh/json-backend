@@ -52,5 +52,7 @@
     }
   ],
   "signin": [],
-  "signup": []
+  "signup": [],
+  "post": [],
+  "users": []
 }
