@@ -54,5 +54,19 @@
   "signin": [],
   "signup": [],
   "post": [],
-  "users": []
+  "user": [  {
+    "username": "df",
+    "avatar": "https://i.pravatar.cc/300",
+    "fullname": "df",
+    "email": "fdf",
+    "pass": "df",
+    "id": 20000
+  },  {
+    "username": "madhu",
+    "avatar": "https://i.pravatar.cc/300",
+    "fullname": "sai",
+    "email": "madhu@gmail.com",
+    "pass": "madhu",
+    "id": 30000
+  }]
 }
