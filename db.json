@@ -53,7 +53,18 @@
   ],
   "signin": [],
   "signup": [],
-  "post": [],
+  "post": [
+    {
+      "value": "madhu",
+      "url": "https://media1.giphy.com/media/WoWm8YzFQJg5i/giphy.gif?cid=7c0b8623dx029d5sh3ws5gzdf4sjqe54vgp3hegps8b4ihbd&rid=giphy.gif&ct=g",
+      "id": 1
+    },
+    {
+      "value": "king is back",
+      "url": "https://media4.giphy.com/media/28GHfhGFWpFgsQB4wR/giphy.gif?cid=7c0b86238xv3nxha2fd87i5udenbqoxau4vlplbxhx9rso06&rid=giphy.gif&ct=g",
+      "id": 2
+    }
+  ],
   "user": [  {
     "username": "df",
     "avatar": "https://i.pravatar.cc/300",
